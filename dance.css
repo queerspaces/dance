@@ -1,0 +1,23 @@
+body{
+
+
+
+  background-image:
+  url('https://i.imgur.com/rQpPLkV.gif'),
+url('https://i.imgur.com/pFBkiA9.gif'),
+url('https://i.imgur.com/oG1SqeB.gif'),
+url('https://i.imgur.com/0Rdqs7y.jpg');
+
+background-repeat: no-repeat;
+
+background-position: 50px 10px,
+500px 250px,
+850px 100px,
+0px 0px;
+
+background-size: 180px 326px,
+250px 426px,
+350px 526px,
+cover;
+
+}
